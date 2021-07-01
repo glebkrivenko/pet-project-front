@@ -1,6 +1,30 @@
-# Getting Started with Create React App
+# My Project online-store
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Packages
+
+- NodeJS - [documentation](https://nodejs.org/en/)
+- Express - [documentation](http://expressjs.com/)
+- PostgreSQL - [documentation](https://www.postgresql.org/)
+- Sequelize-ORM - [documentation](https://sequelize.org/)
+- React Bootstrap- [documentaton](https://react-bootstrap.github.io/)
+- Axios- [documentation](https://github.com/axios/axios)
+- React-Router-Dom - [documentation](https://reactrouter.com/web/guides/quick-start)
+- MobX-[documentation](https://mobx.js.org/README.html)
+
+## Components
+
+- CreateBrand
+- CreateDevice
+- CreateType
+- AppRouter
+- BrandBar
+- DeviceItem
+- DeviceList
+- NavBar
+- Pages
+- TypeBar
 
 ## Available Scripts
 
